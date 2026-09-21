@@ -3,7 +3,7 @@
 >
 > A cleaned, reconstructed, tested, and reproducible reference implementation is available here:
 >
-> **[graph-anomaly-detection](https://github.com/ahmadrasti/graph-anomaly-detection)**
+> **[graph-anomaly-detection](https://github.com/ahmadrastibarzoki/graph-anomaly-detection)**
 
 # Anomaly-Detection-Using-Autoencoder-Based-On-Graph-Neural-Networks
 Dimensionality reduction is a crucial step in data processing and unsupervised learning, finding widespread applications in tasks like anomaly detection and clustering. The primary goal is to reduce the number of variables or features in the data while retaining essential information, simplifying and preprocessing data for subsequent tasks such as recognizing patterns and hidden structures.
