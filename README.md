@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Project status:** This repository is retained as a historical record of my M.Sc. thesis project.
+>
+> A cleaned, reconstructed, tested, and reproducible reference implementation is available here:
+>
+> **[graph-anomaly-detection](https://github.com/ahmadrasti/graph-anomaly-detection)**
+
 # Anomaly-Detection-Using-Autoencoder-Based-On-Graph-Neural-Networks
 Dimensionality reduction is a crucial step in data processing and unsupervised learning, finding widespread applications in tasks like anomaly detection and clustering. The primary goal is to reduce the number of variables or features in the data while retaining essential information, simplifying and preprocessing data for subsequent tasks such as recognizing patterns and hidden structures.
 In dealing with high-dimensional data characterized by nonlinear manifold structures, the utilization of specific metrics becomes imperative. Metrics like geodesic distance are well-suited for visualizing nonlinear relationships between data points in a low-dimensional space. Geodesic distance metrics and similar approaches employ algorithms, such as ISO-MAP, to discover the manifold structure of data in a higher-dimensional space and represent it in a lower-dimensional space.
